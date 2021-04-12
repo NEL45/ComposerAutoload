@@ -1,0 +1,16 @@
+{
+    "name": "nico/quete_composer",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "NicoW",
+            "email": "nweickert@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+            "psr-4": {"App\\": "src/"}
+        }
+
+}
